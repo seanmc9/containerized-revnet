@@ -1,6 +1,12 @@
-## Solidity Development Template
+## Containerized Revnet
 
-Add a description of your code here.
+A containerized version of https://github.com/rev-net/revnet-contracts.
+
+Left TODOs:
+- [ ] implement buyback mechanism
+- [ ] implement dynamic intra-stage price ceiling
+
+### Development
 
 To build, use this [Foundry](https://book.getfoundry.sh/) `forge` command:
 ```shell
